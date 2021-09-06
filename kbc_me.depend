@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1476269064 source:c:\codeblocks\kbc_me\main.cpp
+	<iostream>
+	<stdio.h>
+	<fstream>
+	<cstdlib>
+	<windows.h>
+
